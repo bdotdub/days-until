@@ -1,0 +1,6 @@
+[submodule "vendor/plugins/restful_authentication"]
+	path = vendor/plugins/restful_authentication
+	url = git://github.com/technoweenie/restful-authentication.git
+[submodule "vendor/plugins/calendar_helper"]
+	path = vendor/plugins/calendar_helper
+	url = git://github.com/topfunky/calendar_helper.git
